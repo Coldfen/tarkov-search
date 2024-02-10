@@ -9,7 +9,6 @@ import { Component } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
 import { FormControl, FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { TuiInputModule } from '@taiga-ui/kit';
-
 @Component({
   selector: 'app-root',
   standalone: true,
